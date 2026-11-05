@@ -1,7 +1,7 @@
 # Advanced-Python-Training
 # Python Training – 3 Days
 
-Welcome to my Python Training repository!
+
 
 This repository contains my practice sheets, coding exercises, and hands-on work completed during a 3-day Python training program.
 
